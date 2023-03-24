@@ -1,4 +1,6 @@
 let operator = '';
+let x ='';
+let y ='';
 function add(x,y)     
 {
  return x+y;
@@ -62,7 +64,7 @@ function operate(operator,x,y)
                 break;
     }}
 
-    console.log(operate('/',12,3))
+    console.log(operate('/',12,3))  //Create a new function operate that takes an operator and 2 numbers and then calls one of the above functions on the numbers.
 
 
 
