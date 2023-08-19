@@ -2,7 +2,8 @@
 
 # Calculator Project
 
-![Calculator Demo](link_to_demo_gif_or_screenshot.gif)
+![Calculator Demo](./assets/Screenshot%202023-08-18%20at%209.10.34%20PM.png)
+![calculator demo](https://jaicsdx.github.io/CALCULATOR/)
 
 This is a simple web-based calculator project implemented using HTML, JavaScript, and CSS. The project aims to provide users with a convenient way to perform basic arithmetic calculations within a user-friendly interface.
 
