@@ -6,7 +6,7 @@
 
 
 
-![calculator demo](https://jaicsdx.github.io/CALCULATOR/)
+[DEMO CALCULATOR](https://jaicsdx.github.io/CALCULATOR/)
 
 This is a simple web-based calculator project implemented using HTML, JavaScript, and CSS. The project aims to provide users with a convenient way to perform basic arithmetic calculations within a user-friendly interface.
 
